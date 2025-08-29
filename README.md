@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer with a passion for creating seamless digital experiences..<br>I have expertise in various programming languages such as JavaScript, HTML/CSS, Python. And I also have experience with Unreal Engine and Unity.
+I make decisions based on data, I create solutions with Python. Numbers speak louder than words. "Cool story, now show me the data."
 
 
 ## 🌐 Socials:
