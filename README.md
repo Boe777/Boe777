@@ -1,16 +1,57 @@
 # 💫 About Me:
-I make decisions based on data, I create solutions with Python. Numbers speak louder than words. "Cool story, now show me the data."
+I make decisions based on data, I create solutions with Python. Numbers speak louder than words. ![Cool story, now show me the data.](https://img.shields.io/badge/Cool%20story--now%20show%20me%20the%20data.-black?style=flat-square)
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kkaann) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GameDevKaan) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+### BACK END DEVELOPMENT
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9.0-239120?logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-4.2-darkgreen?logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb&logoColor=white)
+### DATA PIPELINES 
+![Pandas](https://img.shields.io/badge/Pandas-2.0-darkgreen?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24-blueviolet?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12-cyan?logo=seaborn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-1.11-darkblue?logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14-darkred)
+![PySpark](https://img.shields.io/badge/PySpark-3.5-orange?logo=apache-spark&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red?logo=sqlalchemy&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2.31-black)
+### MISCELLANEOUS
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Bugzilla](https://img.shields.io/badge/Bugzilla-CC0000)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-ED8B00?logo=apache&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-009688)
+![MemoQ](https://img.shields.io/badge/MemoQ-6C3483)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-yellowgreen)
+### FRONT END DEVELOPMENT
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-2023-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0.0.3-38B2AC?logo=tailwind-css&logoColor=white)
+### SOFT SKILLS
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Critical-blue)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-Active-green)
+![Agile Development](https://img.shields.io/badge/Agile%20Development-Scrum-orange)
+![Cross-Cultural Communication](https://img.shields.io/badge/Cross--Cultural%20Communication-Global-purple)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=boe777&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=boe777&theme=shades-of-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=boe777&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=boe777&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitor-badge.glitch.me/badge?page_id=Bo777)
+
