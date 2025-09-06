@@ -1,5 +1,5 @@
 # 💫 About Me:
-I make decisions based on data, I create solutions with Python. Numbers speak louder than words. ![Cool story, now show me the data.](https://img.shields.io/badge/Cool%20story--now%20show%20me%20the%20data.-black?style=flat-square)
+I make decisions based on data, I create solutions with Python. Numbers speak louder than words. ![Cool story, now show me the data.](https://img.shields.io/badge/Cool%20story--now%20show%20me%20the%20data.-blue?style=flat-square)
 
 
 ## 🌐 Socials:
