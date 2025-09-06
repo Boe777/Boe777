@@ -53,5 +53,5 @@ I make decisions based on data, I create solutions with Python. Numbers speak lo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=boe777&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitor-badge.glitch.me/badge?page_id=Bo777)
+![](https://komarev.com/ghpvc/?username=Boe777)
 
